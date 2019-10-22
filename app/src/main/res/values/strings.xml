@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tubes_2</string>
+    <string name="player_label">Player</string>
+    <string name="enemy_label">Enemy</string>
+    <string name="newGame">Start Game</string>
+    <string name="score">High Score</string>
+</resources>
